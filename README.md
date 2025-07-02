@@ -10,3 +10,7 @@ I love pain au chocolate.
 I'm currently studying in Shiga University.
 I love traveling and cycling, also.
 hehehe
+
+# my company
+
+exeo digital solutions
